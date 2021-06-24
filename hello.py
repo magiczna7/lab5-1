@@ -1,2 +1,2 @@
 while True:
-  print("Hello second image!")
+  print("Hello first image!")
