@@ -1,1 +1,2 @@
-print("Hello first image!")
+while True:
+  print("Hello second image!")
